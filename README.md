@@ -43,11 +43,11 @@ run "npm i" in the command line
 
 When you get to the landing page, you can browse through the collection however you first want to sign up. Although this isnt a real authentication process your user information will be added to our database and if it matches up you will be signed into your account where you can add more books to our database by catalouging it in our database. You can then add books you want to loan by adding them with the books ISBN number that can be found in the back of any book. Search and request books to loan from other users. 
 
-This application follows the MVC file structure powered by Jquerry and Bootstrap.  
+This application follows the MVC file structure using Handlebars, Jquerry and Bootstrap.  
 
 ## Technologies Used
 
-HTML, JQuerry, CSS, JSON, Express, noSQL, sequalize, APIs
+HTML, JQuerry, Handlebars, CSS, JSON, Express, noSQL, sequalize, APIs
 
 ## Collaborators
 
